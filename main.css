@@ -6,3 +6,19 @@ p {
   text-align: center;
   margin-top: 100px;
 }
+
+.toPress {
+  color: rgb(68, 53, 11);
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+#form-text {
+  display: flex;
+  justify-content: center;
+}
